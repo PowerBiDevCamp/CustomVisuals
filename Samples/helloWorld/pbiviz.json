@@ -1,0 +1,16 @@
+{
+  "visual": {
+    "name": "helloWorld",
+    "displayName": "Hello World",
+    "guid": "helloWorld3F750D623B3B48C7B5AC237B6A9E3638",
+    "visualClassName": "Visual",
+    "version": "1.0.0",
+    "description": "Look Ma, it's my new custom visual"
+  },
+  "author": { "name": "Ted", "email": "Ted@Ted.ted" },
+  "assets": { "icon": "assets/icon.png" },
+  "style": "style/visual.less",
+  "capabilities": "capabilities.json",
+  "dependencies": null,
+  "stringResources": []
+}
